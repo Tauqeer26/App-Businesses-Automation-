@@ -67,3 +67,5 @@ This project utilizes machine learning and natural language processing technique
 ## Enhancements
 - The Responeses are not 100% accurate as there is a room of improvement.
 
+## Solution
+- The file with a name containing "Solution-file.xlsx" is my solution.  
