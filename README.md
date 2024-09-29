@@ -68,4 +68,5 @@ This project utilizes machine learning and natural language processing technique
 - The Responeses are not 100% accurate as there is a room of improvement.
 
 ## Solution
+- I've used chatgpt api to solve this task
 - The file with a name containing "Solution-file.xlsx" is my solution.  
